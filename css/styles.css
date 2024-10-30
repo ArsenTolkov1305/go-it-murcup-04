@@ -520,3 +520,10 @@ p {
 .peshka:hover {
     transform: translateY(0%);
 }
+.page-footer {
+    display: flex;
+    align-items: baseline;
+}
+.secret-li:hover .peshka {
+    transform: translateY(0%);
+}
