@@ -787,7 +787,7 @@ p {
     justify-content: center;
     fill: transparent;
 }
-.input-thouth:checked .span-on-footer {
+.input-thouth:checked + .span-on-footer {
     background-color: #404bbf;
     border: none;
     fill: #F4F4FD;
